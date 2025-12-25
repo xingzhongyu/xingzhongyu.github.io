@@ -22,8 +22,8 @@ Machine Learning for Bioinformatics; Single-cell analysis; Spatial omics; Explai
 
 #### Technical Skills
 
-- Programming: Python, Java, SQL (MySQL).  
-- Machine Learning: PyTorch, TensorFlow, Explainable AI, Generative AI, AutoML.  
+- Programming: Python, Java, SQL (MySQL), PyTorch, TensorFlow.  
+- Machine Learning: Explainable AI, Generative AI, AutoML.  
 - Bioinformatics: Single-cell analysis, Spatial omics data processing, Bioinformatics pipelines.
 
 #### Core Strengths
