@@ -1,20 +1,20 @@
-[![xingzhongyu](https://img.shields.io/badge/xingzhongyu-github-blue?logo=github)](https://github.com/xingzhongyu)
+![xingzhongyu](https://img.shields.io/badge/xingzhongyu-github-blue?logo=github)
 
-Master of Science (Artificial Intelligence), Shandong University (2023.9—2026.6).  
+Master of Science (Artificial Intelligence), Shandong University (Sep 2023 — Jun 2026).
 
 #### Contact
 
-Email: (请补充你的联系邮箱)
+Email: zyxing@mail.sdu.edu.cn
 
 #### Education
 
-M.S., Artificial Intelligence, Shandong University, 2023.9—2026.6.  
+M.S., Artificial Intelligence, Shandong University, Sep 2023 — Jun 2026.  
 GPA: 91.07 / 100.  
-荣誉：Second-class academic scholarship (三次)、Second Prize（中国研究生数学建模竞赛）、Weichai Power Scholarship。
+Honors: Second-class Academic Scholarship (awarded three times); Second Prize, China Graduate Mathematical Modeling Competition; Weichai Power Scholarship.
 
-B.S., Software Engineering, Shandong University, 2019.9—2023.6.  
+B.S., Software Engineering, Shandong University, Sep 2019 — Jun 2023.  
 GPA: 91.9 / 100 (rank: 18 / 299).  
-荣誉：First-class / Second-class / Third-class academic scholarships。
+Honors: First-class, Second-class, and Third-class Academic Scholarships.
 
 #### Research Interests
 
@@ -28,13 +28,12 @@ Machine Learning for Bioinformatics; Single-cell analysis; Spatial omics; Explai
 
 #### Core Strengths
 
-擅长分析与解决复杂问题，具备良好的沟通与团队协作能力，能在跨学科团队中高效推动项目落地。
+Adept at analyzing and solving complex problems, strong communication and teamwork skills, and experienced in driving projects effectively within interdisciplinary teams.
 
 #### Teaching Experience
 
 Teaching Assistant, Data Analysis Course, Shandong University — Fall 2024.  
-- 承担课程资料准备与作业批改（30名本科生）。  
-- 每周答疑时段，指导 Python 编程与统计分析。  
-- 指导课程项目，提供数据预处理与模型选择建议。
-
+- Prepared course materials and graded assignments for 30 undergraduate students.  
+- Held weekly office hours to assist with Python programming and statistical analysis.  
+- Mentored course projects, advising on data preprocessing and model selection.
 
