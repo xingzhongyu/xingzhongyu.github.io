@@ -1,12 +1,15 @@
+**Graduate Awards & Scholarships**
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Second-class Academic Scholarship (Shandong University) — awarded three times.
+- Second Prize, China Graduate Mathematical Modeling Competition.
+- Weichai Power Scholarship (Shandong University).
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+**Undergraduate Awards & Scholarships**
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- First-class Academic Scholarship (Shandong University).
+- Second-class Academic Scholarship (Shandong University).
+- Third-class Academic Scholarship (Shandong University).
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+*如需列出具体获奖年份或颁发单位的更多细节，请提供信息以便更新。*
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
