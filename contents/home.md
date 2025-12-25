@@ -33,7 +33,3 @@ Adept at analyzing and solving complex problems, strong communication and teamwo
 #### Teaching Experience
 
 Teaching Assistant, Data Analysis Course, Shandong University — Fall 2024.  
-- Prepared course materials and graded assignments for 30 undergraduate students.  
-- Held weekly office hours to assist with Python programming and statistical analysis.  
-- Mentored course projects, advising on data preprocessing and model selection.
-
