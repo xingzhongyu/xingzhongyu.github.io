@@ -1,6 +1,6 @@
 #### Submitted
 
-- [2] Ding J., Xing Z., Wang Y., et al. DANCE 2.0: Transforming single-cell analysis from black box to transparent workflow[J]. bioRxiv, 2025: 2025.07.17.665427.  Submitted to Nature Methods
+- [1] Ding J., Xing Z., Wang Y., et al. DANCE 2.0: Transforming single-cell analysis from black box to transparent workflow[J]. bioRxiv, 2025: 2025.07.17.665427.  Submitted to Nature Methods
   - Preprint: `https://www.biorxiv.org/content/10.1101/2025.07.17.665427v1`  
   - Source code: `https://github.com/OmicsML/dance`  
   - Live demo (Atlas subproject): `http://omicsml.ai:81/dance/`
