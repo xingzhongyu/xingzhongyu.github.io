@@ -19,17 +19,3 @@ Honors: First-class, Second-class, and Third-class Academic Scholarships.
 #### Research Interests
 
 Machine Learning for Bioinformatics; Single-cell analysis; Spatial omics; Explainable AI; Generative AI; AutoML.
-
-#### Technical Skills
-
-- Programming: Python, Java, SQL (MySQL), PyTorch, TensorFlow.  
-- Machine Learning: Explainable AI, Generative AI, AutoML.  
-- Bioinformatics: Single-cell analysis, Spatial omics data processing, Bioinformatics pipelines.
-
-#### Core Strengths
-
-Adept at analyzing and solving complex problems, strong communication and teamwork skills, and experienced in driving projects effectively within interdisciplinary teams.
-
-#### Teaching Experience
-
-Teaching Assistant, Data Analysis Course, Shandong University — Fall 2024.  
