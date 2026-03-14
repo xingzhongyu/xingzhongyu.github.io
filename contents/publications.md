@@ -6,5 +6,4 @@
 * Live demo (Atlas subproject): `http://omicsml.ai:81/dance/`
 
 
-* [2] **Xing Z.**, Luo H., Guo M., Zhang Z., Yao Q., Du W., Wang J., Yu G. CEAgent-GSL: Code-level Evolutionary Agent for Interpretable Graph Structure Learning on Omics. Submitted to KDD 2026 AI for Sciences Track.
-* [3] Luo H., Liu L., **Xing Z.**, et al. ASTRA: Agentic Spatial Transcriptomics Reasoning Architecture. Submitted to Nucleic Acids Research Web Server Issue.
+* [2] Luo H., Liu L., **Xing Z.**, et al. ASTRA: Agentic Spatial Transcriptomics Reasoning Architecture. Submitted to Nucleic Acids Research Web Server Issue.
