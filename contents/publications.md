@@ -6,6 +6,3 @@
   - Live demo (Atlas subproject): `http://omicsml.ai:81/dance/`
 - [2] Xing Z., Luo H., Guo M., Zhang Z., Yao Q., Du W., Wang J., Yu G. CEAgent-GSL: Code-level Evolutionary Agent for Interpretable Graph Structure Learning on Omics. Submitted to KDD 2026 AI for Sciences Track.
 
-#### Published
-
-- [1] Xing Z., Liang J., Yu G., et al. Explanation Rectification Framework: An Attribution Score Generation Method Based on Standard Explanations[J]. Chinese Journal of Computers, 2025, 48(4): 949-970 (in Chinese). `doi: 10.11897/SP.J.1016.2025.00949`
