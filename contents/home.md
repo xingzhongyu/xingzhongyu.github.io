@@ -14,7 +14,7 @@ Graph Machine Learning; LLM-based Agents; Model Quantization; Efficient and Robu
 #### Education
 
 - **M.S., Artificial Intelligence**, School of Software, Shandong University (Sep 2023 – Jun 2026). GPA: **91.07/100**.
-- **B.S., Software Engineering**, School of Software, Shandong University (Sep 2019 – Jun 2023). GPA: **91.9/100**, rank **18/299**.
+- **B.Eng., Software Engineering**, School of Software, Shandong University (Sep 2019 – Jun 2023). GPA: **91.9/100**, rank **18/299**.
 
 #### Research Experience
 
@@ -22,6 +22,3 @@ Graph Machine Learning; LLM-based Agents; Model Quantization; Efficient and Robu
 - **Graduate research, Shandong University** (2023 – 2026). Studied automated preprocessing and workflow optimization for heterogeneous biological data, as well as LLM-guided evolutionary approaches to interpretable graph structure learning. This research includes **CEAgent-GSL** and **DANCE 2.0**.
 - **Model explanation and evaluation, Shandong University** (2024 – 2025). Investigated attribution-based evaluation and approaches to improving the reliability and interpretability of machine learning explanations.
 
-#### Doctoral Admission
-
-I received a **fully funded offer of admission** to the Ph.D. program in Computer Science at **North Carolina State University** for Fall 2026. My planned start was deferred to Spring 2027.
